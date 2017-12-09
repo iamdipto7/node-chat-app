@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "description": "node-chat-app",
+  "main": "server.js",
+  "author": "DipTo",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "9.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdipto7/node-chat-app.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamdipto7/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/iamdipto7/node-chat-app#readme"
+}
